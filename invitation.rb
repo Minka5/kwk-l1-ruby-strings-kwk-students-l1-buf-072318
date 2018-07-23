@@ -28,3 +28,5 @@ party_name = gets.chomp
 puts "What is the date of your party"
 date = gets.chomp
 
+puts "What time would like to host said party"
+time = gets.chomp
