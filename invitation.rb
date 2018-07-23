@@ -24,3 +24,5 @@ guest_name = gets.chomp
 
 puts "What party do you want (regardless of the time of year)"
 party_name = gets.chomp
+
+
