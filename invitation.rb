@@ -19,7 +19,7 @@
 # Harry Potter
 # ```
 
-puts "What is your name?"
+puts "What is the name of the invitee?"
 guest_name = gets.chomp
 
 puts "What party do you want (regardless of the time of year)"
@@ -30,3 +30,8 @@ date = gets.chomp
 
 puts "What time would like to host said party"
 time = gets.chomp
+
+puts " what is your name?"
+host_name = gets.chomp
+
+
